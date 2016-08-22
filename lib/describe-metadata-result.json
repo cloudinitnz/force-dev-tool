@@ -162,6 +162,12 @@
 		"suffix": "flow",
 		"xmlName": "Flow"
 	}, {
+		"directoryName": "flowDefinitions",
+		"inFolder": false,
+		"metaFile": false,
+		"suffix": "flowDefinition",
+		"xmlName": "FlowDefinition"
+	}, {
 		"childXmlNames": ["WorkflowFieldUpdate", "WorkflowTask", "WorkflowAlert", "WorkflowSend", "WorkflowOutboundMessage", "WorkflowRule"],
 		"directoryName": "workflows",
 		"inFolder": false,
